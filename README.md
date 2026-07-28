@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**taisriquinho/taisriquinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Taís Manica Riquinho.
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Computação na UTFPR, com interesse em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Inteligência Artificial
+- Visão Computacional
+- Sistemas Embarcados
+- Processamento Digital de Sinais
+- Automação
+
+## Atualmente
+
+🔹 Projeto Pato a Jato UTFPR
+
+🔹 Desenvolvimento de sistema de Telemetria
+
+🔹 Módulo Braille Atualizável
+
+## Tecnologias
+
+Python • C • MATLAB • PowerBI • Arduino • ESP32 • Git • Autodesk Fusion
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/taismanicariquinho/
