@@ -12,6 +12,7 @@ Sou estudante de Engenharia de Computação na UTFPR, com interesse em:
 
 ## Atualmente
 🔹 Iniciação Científica (IC)
+
 Desenvolvimento de Métodos e Ferramentas para o Apoio na Análise de Dados Médicos.
 
 🔹 Equipe Pato a Jato
