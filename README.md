@@ -11,12 +11,17 @@ Sou estudante de Engenharia de Computação na UTFPR, com interesse em:
 - Automação
 
 ## Atualmente
+🔹 Iniciação Científica (IC)
+Desenvolvimento de Métodos e Ferramentas para o Apoio na Análise de Dados Médicos.
 
-🔹 Projeto Pato a Jato UTFPR
+🔹 Equipe Pato a Jato
+Projeto de extensão voltado ao desenvolvimento de um protótipo para competição de eficiência energética.
 
-🔹 Desenvolvimento de sistema de Telemetria
+🔹 Equipe PatoBots
+Equipe de robótica competitiva da UTFPR Pato Branco, formada por estudantes que desenvolvem e competem com robôs em diferentes categorias.
 
-🔹 Módulo Braille Atualizável
+🔹 The Girl Has No Name
+Projeto de extensão voltado ao incentivo e à participação feminina nas áreas de engenharia e tecnologia.
 
 ## Tecnologias
 
