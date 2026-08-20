@@ -27,6 +27,14 @@ Projeto de extensão voltado ao incentivo e à participação feminina nas área
 
 Python • C • MATLAB • PowerBI • Arduino • ESP32 • Git • Autodesk Fusion
 
+## Projetos
+
+🔹 Sistema de Comunicação da Telemetria — Pato a Jato
+Desenvolvimento em andamento.
+
+🔹 Módulo Braille Atualizável
+Projeto desenvolvido na disciplina de Oficina de Integração, envolvendo eletromagnetismo, eletrônica, modelagem 3D, PCB e desenvolvimento de uma extensão para tradução de textos para Braille.
+
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/taismanicariquinho/
