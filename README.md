@@ -29,7 +29,7 @@ Python • C • MATLAB • PowerBI • Arduino • ESP32 • Git • Autodesk F
 
 ## Projetos
 
-🔹 Sistema de Comunicação da Telemetria — Pato a Jato<br>
+🔹 Pesquisa sobre Motor de Partida — Pato a Jato<br>
 Desenvolvimento em andamento.
 
 🔹 Módulo Braille Atualizável<br>
